@@ -1,9 +1,8 @@
-if(true) {
-    console.log("Hello bro")
-}
+const name = "Durbek"
 
-if(false) {
-    console.log("hi bro")
-} else {
-    console.log("bye bye bro")
+switch(name) {
+    case "Durbek"
+    console.log("qalesiz") 
+    break; //shart tugadi
+    case
 }
